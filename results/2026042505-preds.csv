@@ -1,0 +1,13 @@
+post_id,scraped_at,make,model,year,mileage,price,transmission,fuel_type,condition,title_status,color,actual_price,pred_price
+7926820618,2026-04-25T04:00:34Z,Toyota,Tundra,2005,105000.0,15000.0,automatic,gas,excellent,clean,white,15000.0,6707.0
+7926953071,2026-04-25T04:00:34Z,Suzuki,SX4,2009,154000.0,2000.0,manual,gas,,clean,,2000.0,4883.89
+7927044268,2026-04-25T04:00:34Z,freightliner,m2 106,2014,195000.0,65000.0,automatic,diesel,excellent,clean,,65000.0,5236.35
+7927037471,2026-04-25T04:00:34Z,FORD,F-350,2008,126000.0,9700.0,automatic,diesel,excellent,clean,white,9700.0,12848.5
+7927352450,2026-04-25T04:00:34Z,Mercury,Milan Premier,2006,161984.0,3000.0,automatic,gas,Excellent,clean,silver,3000.0,4232.33
+7927197968,2026-04-25T04:00:34Z,Toyota,Solara,2008,189000.0,4700.0,automatic,gas,good,clean,,4700.0,3674.7
+7927579304,2026-04-25T04:00:34Z,Dodge,Neon,2002,150000.0,3288.0,automatic,gas,,clean,,3288.0,3295.96
+7927638506,2026-04-25T04:00:34Z,mercedes-benz,gl450 4matic,2011,98000.0,8985.0,automatic,gas,excellent,clean,blue,8985.0,9638.88
+7927744005,2026-04-25T04:00:34Z,ford,e350,2002,297000.0,4500.0,automatic,gas,,clean,silver,4500.0,3031.82
+7927718194,2026-04-25T04:00:34Z,Nissan,Rogue Sport,2018,126300.0,11800.0,automatic,gas,,clean,Black Magnetic Black,11800.0,15595.93
+7927740737,2026-04-25T04:00:34Z,Ford,F-250,1997,131000.0,5000.0,automatic,gas,good,clean,blue,5000.0,9173.33
+7927856141,2026-04-25T04:00:34Z,Volvo,S60 T5 AWD Sport Sedan,2014,143000.0,5485.0,automatic,gas,good,clean,silver,5485.0,9589.18
